@@ -2,6 +2,79 @@
 
 Every Andromon release, newest first. Written by the build; don't edit by hand.
 
+## v1.0.5 (build 5) · 2026-11-19
+
+### Desktop and web
+
+- Release 1.0.5 with companion 1.0.5 (`97f5aad`)
+- Record the phone app's version from the APK that is shipped (`bc8f0c7`)
+- Deploy the web version to Netlify with each release, or on its own (`c4eabf9`)
+
+### Phone app 1.0.5 (build 11)
+
+- Check Andromon_Releases for a newer companion and install it when the person agrees (`85d1d4a`)
+- Add a switch to show or hide LeakCanary's Leaks icon in debug builds (`858ee85`)
+- Make Not now as big as Use fingerprint on the fingerprint offer (`5595bbe`)
+- Offer the PC link lock in the welcome tour (`4ed046e`)
+- Add a PIN and fingerprint lock for the PC link (`f64a63a`)
+- Show the tour's pictures without a box and use a round arrow button (`0f9a5e3`)
+- Retake the Tools screenshot with the chart Dashboard (`3cab795`)
+- Make the Tools Dashboard charts only (`261fc47`)
+- Split Tools into Dashboard and All tools tabs (`76f79e7`)
+- Drop the PC link's "All set" badge and the unused splash robot (`4fc5f71`)
+- Chart the Cleaner's junk by group and what is selected (`0bbb0a0`)
+- Show fewer badges: drop the ones that repeat what the screen already says (`7bd8a0d`)
+- Show placeholder rows and progress circles while screens load (`1684a36`)
+- Turn the Tools hero card into a carousel that moves on every 10 seconds (`30d262d`)
+- Draw the progress rings with a thicker stroke (`fae64ae`)
+- Collect the app's permissions in the tour and ask where they're needed (`6a781a5`)
+- Give the welcome tour light haptic feedback (`e6431bf`)
+- Show the logo with a progress bar for five seconds at start (`a20e541`)
+- Retake the guide's screenshots on a real phone (`f664a0d`)
+- Keep the PC link stopped after Stop (`0dd4fc2`)
+- Add a welcome tour for the first start (`33cea15`)
+- Show the Andromon logo while the app starts (`7eaf924`)
+- Add Blur personal data, so screenshots are safe to share (`c89186f`)
+- Open on PC link, with Transfer, Tools and Stats in the bottom bar (`75727d0`)
+- Fix smaller problems in Battery saver, Finish setup, Memory, Apps and Cleaner (`c2676bf`)
+- Keep the PC link answering while streams are open (`b4e9a93`)
+- Update all F-Droid apps in one go (`86e4bac`)
+- Watch the clipboard for Andromon's clipboard sync (`cd17ec8`)
+- Find similar photos for Andromon (`be5691e`)
+- Show battery capacity, and give Andromon the battery's health (`94f6728`)
+- Prepare the F-Droid listing and say where to get the app (`eb2da40`)
+- Add F-Droid: browse and install apps from F-Droid's catalogue (`1f1c0ad`)
+- Add Recover: deleted photos and files still on the phone (`12594bf`)
+- Keep crash reports on the phone (`e84570f`)
+- Let automation apps switch the link, Wi-Fi receive and the Freezer (`30eb485`)
+- Show DNS records in Network › Look up (`23b8b51`)
+- Show the trackers in an app's code (`2a6436f`)
+- Make and open zip archives in Storage (`4381332`)
+- Add Scan code to Send (`99bf396`)
+- Encrypt the Wi-Fi transfer key with the Android Keystore (`37bdaf8`)
+- Start the privileged helper as root through libsu (`2ed8fe7`)
+- Let the PC link start again after it is turned off (`7752b0a`)
+- Split Settings into pages and trim the bottom bar (`636a8c8`)
+- Rename the app to Andromon Companion (`7277207`)
+- Say in the README where to download the builds (`9256e21`)
+
+### Downloads
+
+- Linux x64 (deb): [Andromon-1.0.5-amd64.deb](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-1.0.5-amd64.deb), 104.6 MB
+- Linux arm64 (AppImage): [Andromon-1.0.5-arm64.AppImage](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-1.0.5-arm64.AppImage), 129.9 MB
+- Linux arm64 (deb): [Andromon-1.0.5-arm64.deb](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-1.0.5-arm64.deb), 99.5 MB
+- macOS arm64 (dmg): [Andromon-1.0.5-arm64.dmg](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-1.0.5-arm64.dmg), 125.1 MB
+- macOS x64 (dmg): [Andromon-1.0.5-x64.dmg](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-1.0.5-x64.dmg), 132.4 MB
+- Linux x64 (AppImage): [Andromon-1.0.5-x86_64.AppImage](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-1.0.5-x86_64.AppImage), 128.7 MB
+- Android (apk): [Andromon-Companion-1.0.5.apk](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-Companion-1.0.5.apk), 1.5 MB
+- Windows arm64 (exe): [Andromon-Setup-1.0.5-arm64.exe](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-Setup-1.0.5-arm64.exe), 117.8 MB
+- Windows ia32 (exe): [Andromon-Setup-1.0.5-ia32.exe](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-Setup-1.0.5-ia32.exe), 101.9 MB
+- Windows x64 (exe): [Andromon-Setup-1.0.5-x64.exe](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-Setup-1.0.5-x64.exe), 123.7 MB
+- Windows (exe): [Andromon-Setup-1.0.5.exe](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-Setup-1.0.5.exe), 240.7 MB
+- Web (zip): [Andromon-Web-1.0.5.zip](https://github.com/Deshan555/Andromon_Releases/releases/download/v1.0.5/Andromon-Web-1.0.5.zip), 2.2 MB
+
+The web build runs in Chrome or Edge: unzip it and upload the files to any static host.
+
 ## v1.0.4 (build 2) · 2026-11-19
 
 ### Desktop and web
