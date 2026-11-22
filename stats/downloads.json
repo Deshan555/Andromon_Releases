@@ -1,0 +1,164 @@
+{
+  "repository": "Deshan555/Andromon_Releases",
+  "date": "2026-11-22T11:28:36.419Z",
+  "total": 85,
+  "platforms": {
+    "windows": 31,
+    "mac": 17,
+    "linux": 20,
+    "android": 15,
+    "web": 2
+  },
+  "releases": [
+    {
+      "tag": "v1.0.5",
+      "published": "2026-11-19T10:31:52Z",
+      "prerelease": false,
+      "downloads": 73,
+      "platforms": {
+        "windows": 27,
+        "mac": 15,
+        "linux": 16,
+        "android": 14,
+        "web": 1
+      },
+      "files": [
+        {
+          "name": "Andromon-Setup-1.0.5-x64.exe",
+          "platform": "windows",
+          "downloads": 16
+        },
+        {
+          "name": "Andromon-Companion-1.0.5.apk",
+          "platform": "android",
+          "downloads": 14
+        },
+        {
+          "name": "Andromon-1.0.5-arm64.dmg",
+          "platform": "mac",
+          "downloads": 9
+        },
+        {
+          "name": "Andromon-1.0.5-x64.dmg",
+          "platform": "mac",
+          "downloads": 6
+        },
+        {
+          "name": "Andromon-1.0.5-amd64.deb",
+          "platform": "linux",
+          "downloads": 5
+        },
+        {
+          "name": "Andromon-Setup-1.0.5-ia32.exe",
+          "platform": "windows",
+          "downloads": 5
+        },
+        {
+          "name": "Andromon-1.0.5-arm64.deb",
+          "platform": "linux",
+          "downloads": 4
+        },
+        {
+          "name": "Andromon-1.0.5-x86_64.AppImage",
+          "platform": "linux",
+          "downloads": 4
+        },
+        {
+          "name": "Andromon-1.0.5-arm64.AppImage",
+          "platform": "linux",
+          "downloads": 3
+        },
+        {
+          "name": "Andromon-Setup-1.0.5-arm64.exe",
+          "platform": "windows",
+          "downloads": 3
+        },
+        {
+          "name": "Andromon-Setup-1.0.5.exe",
+          "platform": "windows",
+          "downloads": 3
+        },
+        {
+          "name": "Andromon-Web-1.0.5.zip",
+          "platform": "web",
+          "downloads": 1
+        }
+      ]
+    },
+    {
+      "tag": "v1.0.4",
+      "published": "2026-11-19T09:56:21Z",
+      "prerelease": false,
+      "downloads": 12,
+      "platforms": {
+        "windows": 4,
+        "mac": 2,
+        "linux": 4,
+        "android": 1,
+        "web": 1
+      },
+      "files": [
+        {
+          "name": "Andromon-1.0.4-amd64.deb",
+          "platform": "linux",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-1.0.4-arm64.AppImage",
+          "platform": "linux",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-1.0.4-arm64.deb",
+          "platform": "linux",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-1.0.4-arm64.dmg",
+          "platform": "mac",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-1.0.4-x64.dmg",
+          "platform": "mac",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-1.0.4-x86_64.AppImage",
+          "platform": "linux",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-Companion-1.0.4.apk",
+          "platform": "android",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-Setup-1.0.4-arm64.exe",
+          "platform": "windows",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-Setup-1.0.4-ia32.exe",
+          "platform": "windows",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-Setup-1.0.4-x64.exe",
+          "platform": "windows",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-Setup-1.0.4.exe",
+          "platform": "windows",
+          "downloads": 1
+        },
+        {
+          "name": "Andromon-Web-1.0.4.zip",
+          "platform": "web",
+          "downloads": 1
+        }
+      ]
+    }
+  ]
+}
