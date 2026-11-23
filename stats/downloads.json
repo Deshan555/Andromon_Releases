@@ -1,12 +1,12 @@
 {
   "repository": "Deshan555/Andromon_Releases",
-  "date": "2026-11-22T11:28:36.419Z",
-  "total": 85,
+  "date": "2026-11-23T12:47:52.553Z",
+  "total": 107,
   "platforms": {
-    "windows": 31,
-    "mac": 17,
-    "linux": 20,
-    "android": 15,
+    "windows": 37,
+    "mac": 18,
+    "linux": 24,
+    "android": 26,
     "web": 2
   },
   "releases": [
@@ -14,33 +14,43 @@
       "tag": "v1.0.5",
       "published": "2026-11-19T10:31:52Z",
       "prerelease": false,
-      "downloads": 73,
+      "downloads": 95,
       "platforms": {
-        "windows": 27,
-        "mac": 15,
-        "linux": 16,
-        "android": 14,
+        "windows": 33,
+        "mac": 16,
+        "linux": 20,
+        "android": 25,
         "web": 1
       },
       "files": [
         {
-          "name": "Andromon-Setup-1.0.5-x64.exe",
-          "platform": "windows",
-          "downloads": 16
-        },
-        {
           "name": "Andromon-Companion-1.0.5.apk",
           "platform": "android",
-          "downloads": 14
+          "downloads": 25
+        },
+        {
+          "name": "Andromon-Setup-1.0.5-x64.exe",
+          "platform": "windows",
+          "downloads": 21
         },
         {
           "name": "Andromon-1.0.5-arm64.dmg",
           "platform": "mac",
-          "downloads": 9
+          "downloads": 10
         },
         {
           "name": "Andromon-1.0.5-x64.dmg",
           "platform": "mac",
+          "downloads": 6
+        },
+        {
+          "name": "Andromon-1.0.5-x86_64.AppImage",
+          "platform": "linux",
+          "downloads": 6
+        },
+        {
+          "name": "Andromon-Setup-1.0.5-ia32.exe",
+          "platform": "windows",
           "downloads": 6
         },
         {
@@ -49,24 +59,14 @@
           "downloads": 5
         },
         {
-          "name": "Andromon-Setup-1.0.5-ia32.exe",
-          "platform": "windows",
+          "name": "Andromon-1.0.5-arm64.AppImage",
+          "platform": "linux",
           "downloads": 5
         },
         {
           "name": "Andromon-1.0.5-arm64.deb",
           "platform": "linux",
           "downloads": 4
-        },
-        {
-          "name": "Andromon-1.0.5-x86_64.AppImage",
-          "platform": "linux",
-          "downloads": 4
-        },
-        {
-          "name": "Andromon-1.0.5-arm64.AppImage",
-          "platform": "linux",
-          "downloads": 3
         },
         {
           "name": "Andromon-Setup-1.0.5-arm64.exe",
