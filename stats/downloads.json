@@ -1,10 +1,10 @@
 {
   "repository": "Deshan555/Andromon_Releases",
-  "date": "2026-11-27T12:25:27.355Z",
-  "total": 120,
+  "date": "2026-11-28T11:49:31.617Z",
+  "total": 122,
   "platforms": {
-    "windows": 44,
-    "mac": 21,
+    "windows": 45,
+    "mac": 22,
     "linux": 24,
     "android": 29,
     "web": 2
@@ -14,10 +14,10 @@
       "tag": "v1.0.5",
       "published": "2026-11-19T10:31:52Z",
       "prerelease": false,
-      "downloads": 108,
+      "downloads": 110,
       "platforms": {
-        "windows": 40,
-        "mac": 19,
+        "windows": 41,
+        "mac": 20,
         "linux": 20,
         "android": 28,
         "web": 1
@@ -31,7 +31,7 @@
         {
           "name": "Andromon-Setup-1.0.5-x64.exe",
           "platform": "windows",
-          "downloads": 27
+          "downloads": 28
         },
         {
           "name": "Andromon-1.0.5-arm64.dmg",
@@ -41,7 +41,7 @@
         {
           "name": "Andromon-1.0.5-x64.dmg",
           "platform": "mac",
-          "downloads": 6
+          "downloads": 7
         },
         {
           "name": "Andromon-1.0.5-x86_64.AppImage",
